@@ -26,7 +26,8 @@ Hi! I'm Shafa, an IT graduate (Software Engineering) from Universiti Utara Malay
 
 ## 📜 Certifications
 
-- TestMu AI Software Testing Professional Certificate (LinkedIn Learning)
+- [TestMu AI Software Testing Professional Certificate](https://www.linkedin.com/learning/certificates/894738b963080ccc74da261df1ecd197958ead8c0cab16ffd32bc9b8b9f1022e) (LinkedIn Learning)
+- [Atlassian Agile Project Management Professional Certificate](https://www.linkedin.com/learning/certificates/5667a0ca267586a42006b966cd1c0f8a8e9e852f9189f388e2935591d6296747) (LinkedIn Learning)
 
 ## 🔗 Connect with Me
 
